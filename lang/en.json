@@ -1,0 +1,22 @@
+{
+  "AXD20.AbilityStr": "Strength",
+  "AXD20.AbilityCon": "Constitution",
+  "AXD20.AbilityDex": "Dexterity",
+  "AXD20.AbilityInt": "Intelligence",
+  "AXD20.AbilityWis": "Wisdom",
+  "AXD20.AbilityCha": "Charisma",
+
+  "AXD20.AbilityStrAbbr": "str",
+  "AXD20.AbilityConAbbr": "con",
+  "AXD20.AbilityDexAbbr": "dex",
+  "AXD20.AbilityIntAbbr": "int",
+  "AXD20.AbilityWisAbbr": "wis",
+  "AXD20.AbilityChaAbbr": "cha",
+
+  "AXD20.EffectCreate": "Create Effect",
+  "AXD20.EffectToggle": "Toggle Effect",
+  "AXD20.EffectEdit": "Edit Effect",
+  "AXD20.EffectDelete": "Delete Effect",
+
+  "AXD20.Add": "Add"
+}
